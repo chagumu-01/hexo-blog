@@ -1,8 +1,8 @@
 ## chagumu's blog（Hexo + Butterfly）使用文档
 
-![77150126381](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEVdu9qLhFVOrfagpZrvY88QtMJvfaE2wACsyUAAhZscFWxXTlBzoFvMjwE.png)
-![77150129781](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEVdvZqLhGYZVhMJc1Z-9zHVo4x2o814QACuiUAAhZscFVRiwpvknpWTTwE.png)
-![77150134925](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEVdvdqLhG4Ww7sKjZf33p6XBswdQABftsAArslAAIWbHBVxJ3wWD9DmEk8BA.png)
+![77150126381](/img/1771501263812.png)
+![77150129781](/img/1771501297812.png)
+![77150134925](/img/1771501349258.png)
 
 原作者：[hexo_youqi: 博客样式开源](https://gitee.com/u7u7-sjh/hexo_youqi) 改样式
 
